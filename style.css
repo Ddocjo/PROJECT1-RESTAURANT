@@ -1,0 +1,161 @@
+* {
+    margin: o;
+    padding: 0;
+}
+
+.menu-bar {
+    min-height: 8%;
+    background: #7ed957
+}
+
+.menu-bar img {
+    width: 150px;
+}
+
+.nav-link:hover {
+    color: #ff9858;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.active {
+    color: #000000 !important;
+}
+
+.navbar-toggler .fa {
+    color: #ffffff;
+}
+
+.navbar-toggler {
+    outline: none !important;
+}
+
+.banner {
+    min-height: 50%;
+    width: 100%;
+    position: relative;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.heading {
+    color: #ffffff;
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+}
+
+.info {
+    margin: 10% auto;
+}
+
+.info h1 {
+    font-size: 60px;
+}
+
+.info h2 {
+    font-size: 30px;
+}
+
+.info a {
+    width: 135px;
+    color: #ffffff !important;
+    text-decoration: none !important;
+    padding: 10px 5px;
+    margin: 5px 10px;
+    background: #ff9800;
+    display: inline-block;
+}
+
+.info .second-btn {
+    border: 1px solid #ff9800 !important;
+    background: transparent !important;
+    color: #ffffff !important;
+    transition: 0.5s;
+}
+
+.info .second-btn:hover {
+    background: #7ed957 !important;
+    color: #ffffff !important;
+}
+
+.footer-widget {
+    min-height: 25%;
+    background-image: linear-gradient(right, #7ed957);
+    padding: 21px o;
+    display: inline-flex;
+    color: #000000;
+}
+
+
+/* Menu Page Styles */
+
+.menupage-bar {
+    min-height: 8%;
+    background: #7ed957
+}
+
+.menupage-bar img {
+    width: 150px;
+}
+
+
+
+.Menus-Wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+/* Service Page Styles*/
+
+.servicepage-bar {
+    min-height: 8%;
+    background: #7ed957
+}
+
+.servicepage-bar img {
+    width: 150px;
+}
+
+
+
+.services-Wrapper{
+    display: flex;
+}
+
+
+
+
+
+/* Delivery Styles*/
+.Deliverypage-bar {
+    min-height: 8%;
+    background: #7ed957
+}
+
+.Deliverypage-bar img {
+    width: 150px;
+}
+
+
+
+
+
+/* Contact Styles*/
+.Contactpage-bar {
+    min-height: 8%;
+    background: #7ed957
+}
+
+.Contactpage-bar img {
+    width: 150px;
+}
+
+
+
